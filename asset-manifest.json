@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/the-weather/static/css/main.16db1b01.css",
+    "main.js": "/the-weather/static/js/main.f69221d9.js",
+    "static/media/splash-icon.svg": "/the-weather/static/media/splash-icon.699b0bc5b331eb7ddb039683ec3decf4.svg",
+    "static/media/humidity.svg": "/the-weather/static/media/humidity.6499a5cec9fcc141b70dcdb6a54adc66.svg",
+    "index.html": "/the-weather/index.html",
+    "main.16db1b01.css.map": "/the-weather/static/css/main.16db1b01.css.map",
+    "main.f69221d9.js.map": "/the-weather/static/js/main.f69221d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16db1b01.css",
+    "static/js/main.f69221d9.js"
+  ]
+}
